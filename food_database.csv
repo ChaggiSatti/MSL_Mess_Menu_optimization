@@ -1,0 +1,21 @@
+dish_id,name,category,cost,calories,protein,fat,carbs,fiber,is_veg
+1,Steamed Rice,Staple,8.0,195,5.0,0.4,43.0,1.2,True
+2,Wheat Roti,Staple,6.0,150,5.5,1.2,30.0,4.0,True
+3,Poha,Staple,12.0,180,3.5,3.0,35.0,2.5,True
+4,Upma,Staple,12.0,190,4.0,4.0,33.0,3.0,True
+5,Dal Tadka,Protein,10.0,155,10.0,4.0,20.0,6.0,True
+6,Rajma Masala,Protein,16.0,210,12.0,4.5,30.0,8.0,True
+7,Chole Masala,Protein,16.0,220,11.5,5.0,32.0,7.5,True
+8,Paneer Bhurji,Protein,28.0,260,14.0,18.0,8.0,1.5,True
+9,Palak Paneer,Protein,25.0,230,11.0,15.0,10.0,4.0,True
+10,Egg Curry,Protein,20.0,210,14.0,13.0,4.0,0.5,False
+11,Chicken Curry,Protein,30.0,250,22.0,12.0,6.0,1.5,False
+12,Fish Curry,Protein,32.0,230,20.0,10.0,5.0,1.0,False
+13,Aloo Gobhi,Vegetable,10.0,120,3.0,5.0,16.0,4.0,True
+14,Bhindi Masala,Vegetable,14.0,110,2.8,4.5,14.0,4.5,True
+15,Mixed Veg,Vegetable,12.0,130,3.2,4.0,18.0,5.0,True
+16,Dahi (Curd),Side,7.33,70,3.5,3.5,5.0,0.0,True
+17,Sprouts Salad,Side,9.0,115,6.0,0.8,20.0,5.5,True
+18,Fruit Bowl,Side,15.0,120,1.5,0.5,28.0,4.0,True
+19,Banana,Side,5.0,105,1.1,0.3,27.0,3.0,True
+20,Kheer,Dessert,18.0,210,4.5,6.0,34.0,0.5,True
